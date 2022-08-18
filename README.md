@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tamsanqa Thwala
+- 👋 Hi, I’m Tamsanqa Thwala
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning HTML and CSS.
 - 📫 You can reach me by email: tamsanqathwala62@gmail.com
