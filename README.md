@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tamsanqa Thwala
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning HTML and CSS.
+- 🌱 I’m currently learning javascript and react.
 
 <!---
 Tamsanqa743/Tamsanqa743 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
