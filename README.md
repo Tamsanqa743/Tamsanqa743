@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tamsanqa Thwala
-- 👀 I’m interested in software development.
+- 👀 I’m interested in software development and embedded systems.
 - 🌱 I’m currently learning javascript and react.
 
 <!---
