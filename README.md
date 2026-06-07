@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tamsanqa Thwala
+- 👋 Hi, I’m Tamsanqa743
 - 👀 I’m interested in software development and embedded systems.
 - 🌱 I’m currently learning C++.
 
