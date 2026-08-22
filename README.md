@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on This.<br>🌱 I’m currently learning React, C/C++
+🔭 I’m a tech enthusiast.
+🌱 I'm currently learning:<br>
+<ul>
+<li>React</li>
+<li>React Router</li>
+<li>C/C++</li>
+</ul>
 
 
 ## 🌐 Socials:
