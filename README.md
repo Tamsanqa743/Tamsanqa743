@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a tech enthusiast.
+🔭 I’m a tech enthusiast.<br>
 🌱 I'm currently learning:<br>
 <ul>
 <li>React</li>
